@@ -26,7 +26,6 @@
 [core]
     whitespace = cr-at-eol
     quotepath = false
-    editor = ~/.sys.config/gitEditor.sh
 [i18n]
     commitencoding = utf-8
     logoutputencoding = utf-8
